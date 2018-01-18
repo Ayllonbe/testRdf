@@ -1,0 +1,401 @@
+2017-09-12 08:05:08,790 WARN main - <http://www.oracle.com/xml/jaxp/properties/entityExpansionLimit not supported by parser type org.apache.xerces.jaxp.SAXParserImpl, error message: Property 'http://www.oracle.com/xml/jaxp/properties/entityExpansionLimit' is not recognized.>
+2017-09-12 08:05:08,793 WARN main - <entityExpansionLimit not supported by parser type org.apache.xerces.jaxp.SAXParserImpl, error message: Property 'entityExpansionLimit' is not recognized.>
+2017-09-12 08:07:46,429 WARN main - <http://www.oracle.com/xml/jaxp/properties/entityExpansionLimit not supported by parser type org.apache.xerces.jaxp.SAXParserImpl, error message: Property 'http://www.oracle.com/xml/jaxp/properties/entityExpansionLimit' is not recognized.>
+2017-09-12 08:07:46,431 WARN main - <entityExpansionLimit not supported by parser type org.apache.xerces.jaxp.SAXParserImpl, error message: Property 'entityExpansionLimit' is not recognized.>
+2017-09-12 08:09:15,458 WARN main - <http://www.oracle.com/xml/jaxp/properties/entityExpansionLimit not supported by parser type org.apache.xerces.jaxp.SAXParserImpl, error message: Property 'http://www.oracle.com/xml/jaxp/properties/entityExpansionLimit' is not recognized.>
+2017-09-12 08:09:15,460 WARN main - <entityExpansionLimit not supported by parser type org.apache.xerces.jaxp.SAXParserImpl, error message: Property 'entityExpansionLimit' is not recognized.>
+2017-09-12 08:10:03,538 WARN main - <http://www.oracle.com/xml/jaxp/properties/entityExpansionLimit not supported by parser type org.apache.xerces.jaxp.SAXParserImpl, error message: Property 'http://www.oracle.com/xml/jaxp/properties/entityExpansionLimit' is not recognized.>
+2017-09-12 08:10:03,540 WARN main - <entityExpansionLimit not supported by parser type org.apache.xerces.jaxp.SAXParserImpl, error message: Property 'entityExpansionLimit' is not recognized.>
+2017-09-12 17:36:16,498 WARN main - <Running.>
+2017-09-12 17:36:45,475 WARN main - <Running.>
+2017-09-12 17:37:35,779 WARN main - <Running.>
+2017-09-12 21:55:28,380 WARN main - <Running.>
+2017-09-13 12:59:34,796 WARN main - <Running.>
+2017-09-13 12:59:34,809 WARN main - <Running.>
+2017-09-13 12:59:34,810 WARN main - <Running.>
+2017-09-13 12:59:34,828 WARN main - <Running.>
+2017-11-02 10:19:12,149 WARN main - <Running.>
+2017-11-02 10:19:45,079 WARN main - <Running.>
+2017-11-02 10:19:45,841 WARN main - <java.io.IOException: java.util.concurrent.ExecutionException: java.net.ConnectException: Connexion refusée>
+2017-11-02 10:52:09,975 WARN main - <Running.>
+2017-11-02 10:53:24,372 WARN main - <Running.>
+2017-11-02 10:54:04,283 WARN main - <Running.>
+2017-11-02 11:07:09,847 WARN main - <Running.>
+2017-11-02 11:15:08,758 WARN main - <Running.>
+2017-11-02 11:17:40,495 WARN main - <Running.>
+2017-11-02 11:18:37,657 WARN main - <Running.>
+2017-11-02 11:19:08,549 WARN main - <Running.>
+2017-11-02 11:19:27,955 WARN main - <Running.>
+2017-11-02 11:20:39,464 WARN main - <Running.>
+2017-11-02 11:23:01,255 WARN main - <Running.>
+2017-11-02 11:33:16,109 WARN main - <Running.>
+2017-11-02 11:34:11,618 WARN main - <Running.>
+2017-11-02 11:43:11,761 WARN main - <Running.>
+2017-11-02 11:44:18,166 WARN main - <Running.>
+2017-11-02 11:45:32,002 WARN main - <Running.>
+2017-11-02 11:45:51,391 WARN main - <Running.>
+2017-11-02 11:46:15,202 WARN main - <Running.>
+2017-11-02 11:47:07,568 WARN main - <Running.>
+2017-11-02 11:47:37,146 WARN main - <Running.>
+2017-11-02 11:48:00,277 WARN main - <Running.>
+2017-11-02 11:48:31,724 WARN main - <Running.>
+2017-11-02 11:48:56,228 WARN main - <Running.>
+2017-11-02 11:50:28,498 WARN main - <Running.>
+2017-11-02 11:50:38,883 WARN main - <Running.>
+2017-11-02 11:51:02,132 WARN main - <Running.>
+2017-11-02 11:52:47,531 WARN main - <Running.>
+2017-11-02 11:52:58,650 WARN main - <Running.>
+2017-11-02 11:53:27,944 WARN main - <Running.>
+2017-11-02 11:54:56,188 WARN main - <Running.>
+2017-11-02 11:55:05,374 WARN main - <Running.>
+2017-11-02 15:48:40,784 WARN main - <Running.>
+2017-11-02 15:48:41,507 WARN main - <java.io.IOException: java.util.concurrent.ExecutionException: java.net.ConnectException: Connexion refusée>
+2017-11-02 15:51:47,368 WARN main - <Running.>
+2017-11-02 15:52:36,787 WARN main - <Running.>
+2017-11-02 15:54:01,052 WARN main - <Running.>
+2017-11-16 11:58:13,759 WARN main - <Running.>
+2017-11-16 12:01:07,897 WARN main - <Running.>
+2017-11-16 12:10:38,899 WARN main - <Running.>
+2017-11-16 12:12:28,572 WARN main - <Running.>
+2017-11-16 12:14:03,876 WARN main - <Running.>
+2017-11-16 12:15:19,636 WARN main - <Running.>
+2017-11-16 12:15:40,496 WARN main - <Running.>
+2017-11-16 12:16:32,562 WARN main - <Running.>
+2017-11-16 12:17:28,483 WARN main - <Running.>
+2017-11-16 12:20:33,017 WARN main - <Running.>
+2017-11-16 12:23:26,942 WARN main - <Running.>
+2017-11-16 12:25:40,420 WARN main - <Running.>
+2017-11-16 12:27:49,834 WARN main - <Running.>
+2017-11-16 12:28:44,653 WARN main - <Running.>
+2017-11-16 12:30:09,548 WARN main - <Running.>
+2017-11-16 13:17:08,426 WARN main - <Running.>
+2017-11-16 13:18:20,725 WARN main - <Running.>
+2017-11-16 13:20:32,838 WARN main - <Running.>
+2017-11-16 13:21:41,174 WARN main - <Running.>
+2017-11-16 13:21:55,424 WARN main - <Running.>
+2017-11-16 13:22:06,480 WARN main - <Running.>
+2017-11-16 13:24:47,061 WARN main - <Running.>
+2017-11-16 13:29:35,554 WARN main - <Running.>
+2017-11-16 13:29:49,357 WARN main - <Running.>
+2017-11-16 13:30:10,348 WARN main - <Running.>
+2017-11-16 13:30:56,385 WARN main - <Running.>
+2017-11-16 13:53:36,024 WARN main - <Running.>
+2017-11-16 13:54:19,981 WARN main - <Running.>
+2017-11-16 13:54:38,284 WARN main - <Running.>
+2017-11-16 13:59:40,014 WARN main - <Running.>
+2017-11-16 14:01:40,603 WARN main - <Running.>
+2017-11-16 14:02:11,350 WARN main - <Running.>
+2017-11-16 14:06:16,427 WARN main - <Running.>
+2017-11-16 14:06:55,971 WARN main - <Running.>
+2017-11-16 14:07:29,872 WARN main - <Running.>
+2017-11-16 16:37:09,068 WARN main - <Running.>
+2017-11-16 16:38:53,578 WARN main - <Running.>
+2017-11-16 16:39:11,232 WARN main - <Running.>
+2017-11-16 16:40:34,808 WARN main - <Running.>
+2017-11-16 16:41:51,739 WARN main - <Running.>
+2017-11-16 16:42:12,781 WARN main - <Running.>
+2017-11-16 16:46:06,794 WARN main - <Running.>
+2017-11-16 16:46:28,872 WARN main - <Running.>
+2017-11-16 16:48:05,214 WARN main - <Running.>
+2017-11-16 16:48:34,660 WARN main - <Running.>
+2017-11-16 16:51:44,262 WARN main - <Running.>
+2017-11-16 16:52:23,935 WARN main - <Running.>
+2017-11-16 16:53:48,559 WARN main - <Running.>
+2017-11-16 16:54:29,910 WARN main - <Running.>
+2017-11-16 16:56:06,584 WARN main - <Running.>
+2017-11-16 17:01:10,678 WARN main - <java.io.IOException: java.util.concurrent.ExecutionException: java.io.EOFException>
+2017-11-16 17:03:36,483 WARN main - <Running.>
+2017-11-16 17:04:58,284 WARN main - <Running.>
+2017-11-16 17:05:39,946 WARN main - <Running.>
+2017-11-16 17:08:06,029 WARN main - <Running.>
+2017-11-16 17:08:30,940 WARN main - <Running.>
+2017-11-16 17:09:31,458 WARN main - <Running.>
+2017-11-16 17:10:20,908 WARN main - <Running.>
+2017-11-16 17:11:27,226 WARN main - <Running.>
+2017-11-16 17:11:54,286 WARN main - <Running.>
+2017-11-16 17:12:13,469 WARN main - <Running.>
+2017-11-16 17:12:57,067 WARN main - <Running.>
+2017-11-16 17:13:25,353 WARN main - <Running.>
+2017-11-16 17:14:19,058 WARN main - <Running.>
+2017-11-16 17:14:27,946 WARN main - <Running.>
+2017-11-16 17:16:06,711 WARN main - <Running.>
+2017-11-16 17:16:18,882 WARN main - <Running.>
+2017-11-16 17:17:59,319 WARN main - <Running.>
+2017-11-16 17:21:39,920 WARN main - <Running.>
+2017-11-16 17:21:57,164 WARN main - <Running.>
+2017-11-16 17:22:15,044 WARN main - <Running.>
+2017-11-16 17:22:47,873 WARN main - <Running.>
+2017-11-16 17:23:05,052 WARN main - <Running.>
+2017-11-16 17:28:47,476 WARN main - <Running.>
+2017-11-16 22:21:17,829 WARN main - <Running.>
+2017-11-16 22:21:18,668 WARN main - <java.io.IOException: java.util.concurrent.ExecutionException: java.net.ConnectException: Connexion refusée>
+2017-11-16 22:21:33,581 WARN main - <Running.>
+2017-11-16 22:22:48,429 WARN main - <Running.>
+2017-11-16 22:23:11,750 WARN main - <Running.>
+2017-11-16 22:23:42,379 WARN main - <Running.>
+2017-11-16 22:24:11,181 WARN main - <Running.>
+2017-11-16 22:36:16,923 WARN main - <Running.>
+2017-11-16 22:36:37,469 WARN main - <Running.>
+2017-11-16 22:38:00,109 WARN main - <Running.>
+2017-11-16 22:49:23,268 WARN main - <Running.>
+2017-11-16 22:49:53,124 WARN main - <Running.>
+2017-11-16 22:50:18,269 WARN main - <Running.>
+2017-11-16 22:51:14,358 WARN main - <Running.>
+2017-11-16 22:51:50,986 WARN main - <Running.>
+2017-11-16 22:52:08,201 WARN main - <Running.>
+2017-11-16 22:52:19,362 WARN main - <Running.>
+2017-11-16 22:52:41,410 WARN main - <Running.>
+2017-11-16 22:53:05,794 WARN main - <Running.>
+2017-11-16 22:53:28,332 WARN main - <Running.>
+2017-11-16 22:54:08,016 WARN main - <Running.>
+2017-11-16 22:54:18,449 WARN main - <Running.>
+2017-11-16 22:54:37,265 WARN main - <Running.>
+2017-11-16 22:54:56,487 WARN main - <Running.>
+2017-11-16 22:55:08,991 WARN main - <Running.>
+2017-11-16 23:00:30,033 WARN main - <Running.>
+2017-11-16 23:00:38,990 WARN main - <Running.>
+2017-11-16 23:00:47,147 WARN main - <Running.>
+2017-11-16 23:01:34,017 WARN main - <Running.>
+2017-11-17 09:27:01,044 WARN main - <Running.>
+2017-11-17 09:27:02,670 WARN main - <java.io.IOException: java.util.concurrent.ExecutionException: java.net.ConnectException: Connexion refusée>
+2017-11-17 09:27:03,316 WARN main - <Running.>
+2017-11-17 09:27:03,984 WARN main - <java.io.IOException: java.util.concurrent.ExecutionException: java.net.ConnectException: Connexion refusée>
+2017-11-17 09:27:22,274 WARN main - <Running.>
+2017-11-17 09:27:48,547 WARN main - <Running.>
+2017-11-17 09:31:57,624 WARN main - <Running.>
+2017-11-17 09:36:33,779 WARN main - <Running.>
+2017-11-17 11:37:48,839 WARN main - <Running.>
+2017-11-17 18:24:44,323 WARN main - <Running.>
+2017-11-17 18:24:44,345 WARN main - <Running.>
+2017-11-17 18:26:20,835 WARN main - <Running.>
+2017-11-17 18:27:34,931 WARN main - <Running.>
+2017-11-17 18:32:47,765 WARN main - <Running.>
+2017-11-17 18:33:15,485 WARN main - <Running.>
+2017-11-17 18:54:30,603 WARN main - <Running.>
+2017-11-17 18:56:36,214 WARN main - <Running.>
+2017-11-17 19:39:12,289 WARN main - <Running.>
+2017-11-17 19:43:28,085 WARN main - <Running.>
+2017-11-18 22:55:28,964 WARN main - <Running.>
+2017-11-18 22:56:34,674 WARN main - <Running.>
+2017-11-18 22:56:49,840 WARN main - <Running.>
+2017-11-18 22:57:26,209 WARN main - <Running.>
+2017-11-18 22:58:38,186 WARN main - <Running.>
+2017-12-14 19:00:37,889 WARN main - <Running.>
+2017-12-14 19:03:11,098 WARN main - <Running.>
+2017-12-14 19:20:23,260 WARN main - <Running.>
+2017-12-14 19:21:22,160 WARN main - <Running.>
+2017-12-14 19:28:18,085 WARN main - <Running.>
+2017-12-14 19:30:46,160 WARN main - <Running.>
+2017-12-14 23:24:01,926 WARN main - <Running.>
+2017-12-14 23:31:52,675 WARN main - <Running.>
+2017-12-14 23:32:11,106 WARN main - <Running.>
+2017-12-14 23:32:30,039 WARN main - <Running.>
+2017-12-14 23:35:16,148 WARN main - <Running.>
+2017-12-14 23:35:34,272 WARN main - <Running.>
+2017-12-14 23:36:09,503 WARN main - <Running.>
+2017-12-14 23:37:09,035 WARN main - <Running.>
+2017-12-14 23:38:00,010 WARN main - <Running.>
+2017-12-14 23:55:58,761 WARN main - <Running.>
+2017-12-15 17:19:27,599 WARN main - <Running.>
+2017-12-15 21:51:28,190 WARN main - <Running.>
+2017-12-15 22:01:22,278 WARN main - <Running.>
+2017-12-15 22:02:05,874 WARN main - <Running.>
+2017-12-15 22:07:06,244 WARN main - <Running.>
+2017-12-15 22:08:01,691 WARN main - <Running.>
+2017-12-15 22:09:45,407 WARN main - <Running.>
+2017-12-15 22:10:36,495 WARN main - <Running.>
+2017-12-15 22:19:05,882 WARN main - <Running.>
+2017-12-15 23:29:53,882 WARN main - <Running.>
+2017-12-15 23:35:10,221 WARN main - <Running.>
+2017-12-15 23:36:10,531 WARN main - <Running.>
+2017-12-15 23:38:05,817 WARN main - <Running.>
+2017-12-17 13:05:42,378 WARN main - <Running.>
+2017-12-17 13:07:39,147 WARN main - <Running.>
+2017-12-17 13:10:24,122 WARN main - <Running.>
+2017-12-17 13:11:16,122 WARN main - <Running.>
+2017-12-17 13:12:20,621 WARN main - <Running.>
+2017-12-17 13:13:02,628 WARN main - <Running.>
+2017-12-17 13:19:16,091 WARN main - <Running.>
+2017-12-17 13:22:04,666 WARN main - <Running.>
+2017-12-19 16:18:20,519 WARN main - <Running.>
+2017-12-20 11:03:34,450 WARN main - <Running.>
+2017-12-20 11:07:52,738 WARN main - <Running.>
+2017-12-21 15:01:40,179 WARN main - <Running.>
+2017-12-21 15:03:01,174 WARN main - <Running.>
+2017-12-22 11:24:56,142 WARN main - <Running.>
+2017-12-22 11:30:23,080 WARN main - <Defaulting log level to WARN: com.bigdata>
+2017-12-22 11:30:23,934 WARN main - <Running.>
+2017-12-22 11:30:24,742 WARN main - <Timestamp factory is being set to an earlier time!>
+2017-12-22 11:30:24,770 ERROR main - <Uncaught exception in thread>
+java.lang.NoClassDefFoundError: org/apache/tinkerpop/gremlin/structure/util/AbstractTransaction$TransactionException
+	at com.blazegraph.gremlin.embedded.BlazeGraphEmbedded.<init>(BlazeGraphEmbedded.java:265)
+	at com.blazegraph.gremlin.embedded.BlazeGraphEmbedded.open(BlazeGraphEmbedded.java:190)
+	at com.blazegraph.gremlin.embedded.BlazeGraphEmbedded.open(BlazeGraphEmbedded.java:163)
+	at Test.main(Test.java:59)
+Caused by: java.lang.ClassNotFoundException: org.apache.tinkerpop.gremlin.structure.util.AbstractTransaction$TransactionException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:335)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 4 more
+2017-12-22 11:31:23,757 WARN main - <Defaulting log level to WARN: com.bigdata>
+2017-12-22 11:31:24,180 WARN main - <Running.>
+2017-12-22 11:31:24,599 WARN main - <Timestamp factory is being set to an earlier time!>
+2017-12-22 11:31:24,615 ERROR main - <Uncaught exception in thread>
+java.lang.NoClassDefFoundError: org/apache/tinkerpop/gremlin/structure/util/AbstractTransaction$TransactionException
+	at com.blazegraph.gremlin.embedded.BlazeGraphEmbedded.<init>(BlazeGraphEmbedded.java:265)
+	at com.blazegraph.gremlin.embedded.BlazeGraphEmbedded.open(BlazeGraphEmbedded.java:190)
+	at com.blazegraph.gremlin.embedded.BlazeGraphEmbedded.open(BlazeGraphEmbedded.java:163)
+	at Test.main(Test.java:59)
+Caused by: java.lang.ClassNotFoundException: org.apache.tinkerpop.gremlin.structure.util.AbstractTransaction$TransactionException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:335)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 4 more
+2017-12-22 11:33:28,213 WARN main - <Defaulting log level to WARN: com.bigdata>
+2017-12-22 11:33:28,616 WARN main - <Running.>
+2017-12-22 11:33:29,093 WARN main - <Timestamp factory is being set to an earlier time!>
+2017-12-22 11:33:29,110 ERROR main - <Uncaught exception in thread>
+java.lang.NoClassDefFoundError: org/apache/tinkerpop/gremlin/structure/util/AbstractTransaction$TransactionException
+	at com.blazegraph.gremlin.embedded.BlazeGraphEmbedded.<init>(BlazeGraphEmbedded.java:265)
+	at com.blazegraph.gremlin.embedded.BlazeGraphEmbedded.open(BlazeGraphEmbedded.java:190)
+	at com.blazegraph.gremlin.embedded.BlazeGraphEmbedded.open(BlazeGraphEmbedded.java:163)
+	at com.blazegraph.gremlin.embedded.BlazeGraphFactory.open(BlazeGraphFactory.java:36)
+	at Test.main(Test.java:60)
+Caused by: java.lang.ClassNotFoundException: org.apache.tinkerpop.gremlin.structure.util.AbstractTransaction$TransactionException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:335)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 5 more
+2017-12-22 11:52:04,240 WARN main - <Running.>
+2017-12-22 11:54:17,716 WARN main - <Running.>
+2017-12-22 11:54:48,050 WARN main - <Running.>
+2017-12-22 11:55:52,947 WARN main - <Running.>
+2017-12-22 12:05:51,285 WARN main - <Running.>
+2017-12-22 17:17:17,402 WARN main - <Running.>
+2017-12-22 17:25:12,109 WARN main - <Running.>
+2017-12-22 17:55:41,958 WARN main - <Running.>
+2017-12-22 18:00:15,882 WARN main - <Running.>
+2017-12-22 18:01:03,228 WARN main - <Running.>
+2017-12-22 18:01:20,429 WARN main - <Running.>
+2017-12-22 18:01:29,694 WARN main - <Running.>
+2017-12-22 18:02:26,936 WARN main - <Running.>
+2017-12-22 18:04:19,967 WARN main - <Running.>
+2017-12-22 18:04:29,831 WARN main - <Running.>
+2017-12-22 18:05:52,067 WARN main - <Running.>
+2017-12-22 18:06:29,241 WARN main - <Running.>
+2017-12-22 18:07:17,574 WARN main - <Running.>
+2017-12-22 18:09:16,002 WARN main - <Running.>
+2017-12-22 18:12:10,013 WARN main - <Running.>
+2017-12-22 18:12:24,512 WARN main - <Running.>
+2017-12-22 18:19:53,875 WARN main - <Running.>
+2017-12-22 18:20:09,427 WARN main - <Running.>
+2017-12-22 18:20:59,189 WARN main - <Running.>
+2017-12-22 18:21:06,149 WARN main - <Running.>
+2017-12-22 18:21:16,264 WARN main - <Running.>
+2017-12-22 18:22:24,410 WARN main - <Running.>
+2017-12-22 18:24:36,627 WARN main - <Running.>
+2017-12-22 18:24:51,284 WARN main - <Running.>
+2017-12-22 18:25:31,010 WARN main - <Running.>
+2017-12-22 18:30:10,676 WARN main - <Running.>
+2017-12-22 18:30:43,627 WARN main - <Running.>
+2017-12-22 18:31:12,373 WARN main - <Running.>
+2017-12-22 18:32:48,393 WARN main - <Running.>
+2017-12-22 18:40:39,289 WARN main - <Running.>
+2017-12-22 18:42:20,387 WARN main - <Running.>
+2017-12-22 18:44:22,630 WARN main - <Running.>
+2017-12-22 18:45:10,789 WARN main - <Running.>
+2017-12-22 18:50:01,822 WARN main - <Running.>
+2017-12-22 18:51:39,561 WARN main - <Running.>
+2017-12-22 18:51:43,926 WARN main - <Running.>
+2017-12-22 18:52:00,407 WARN main - <Running.>
+2017-12-22 18:52:49,243 WARN main - <Running.>
+2017-12-22 18:53:04,744 WARN main - <Running.>
+2017-12-22 18:54:37,552 WARN main - <Running.>
+2017-12-22 18:55:19,529 WARN main - <Running.>
+2017-12-22 18:55:33,940 WARN main - <Running.>
+2017-12-22 18:55:44,364 WARN main - <Running.>
+2017-12-22 18:56:02,759 WARN main - <Running.>
+2017-12-22 18:56:18,186 WARN main - <Running.>
+2017-12-22 18:57:23,346 WARN main - <Running.>
+2017-12-22 18:57:46,954 WARN main - <Running.>
+2017-12-22 19:22:22,323 WARN main - <Running.>
+2017-12-22 19:22:53,266 WARN main - <Running.>
+2017-12-22 19:23:55,392 WARN main - <Running.>
+2017-12-22 19:24:00,100 WARN main - <Running.>
+2017-12-22 19:24:35,032 WARN main - <Running.>
+2017-12-22 19:24:49,949 WARN main - <Running.>
+2017-12-22 19:36:45,923 WARN main - <Running.>
+2017-12-22 19:44:31,053 WARN main - <Running.>
+2017-12-22 23:26:53,247 WARN main - <Running.>
+2017-12-22 23:26:54,156 WARN main - <java.io.IOException: java.util.concurrent.ExecutionException: java.net.ConnectException: Connexion refusée>
+2017-12-22 23:27:15,336 WARN main - <Running.>
+2017-12-22 23:27:15,938 WARN main - <java.io.IOException: java.util.concurrent.ExecutionException: java.net.ConnectException: Connexion refusée>
+2017-12-22 23:27:31,773 WARN main - <Running.>
+2017-12-22 23:27:40,216 WARN main - <Running.>
+2017-12-22 23:29:08,741 WARN main - <Running.>
+2017-12-22 23:35:24,421 WARN main - <Running.>
+2017-12-22 23:36:05,956 WARN main - <Running.>
+2017-12-22 23:36:16,921 WARN main - <Running.>
+2017-12-22 23:36:27,224 WARN main - <Running.>
+2017-12-22 23:43:38,152 WARN main - <Running.>
+2017-12-22 23:44:45,817 WARN main - <Running.>
+2018-01-17 11:56:02,267 WARN main - <Running.>
+2018-01-17 12:43:42,743 WARN main - <Running.>
+2018-01-17 12:43:43,117 ERROR main - <org.openrdf.repository.RepositoryException: java.io.FileNotFoundException: /home/Bureau/go.owl (Aucun fichier ou dossier de ce type)>
+2018-01-17 12:43:58,190 WARN main - <Running.>
+2018-01-17 12:43:58,571 ERROR main - <org.openrdf.repository.RepositoryException: java.io.FileNotFoundException: /home/aaronayllon/Bureau/go.owl (Aucun fichier ou dossier de ce type)>
+2018-01-17 12:44:14,765 WARN main - <Running.>
+2018-01-17 12:44:15,206 WARN main - <java.io.IOException: java.util.concurrent.ExecutionException: java.net.ConnectException: Connexion refusée>
+2018-01-17 12:44:15,206 ERROR main - <org.openrdf.repository.RepositoryException: java.io.IOException: java.util.concurrent.ExecutionException: java.net.ConnectException: Connexion refusée>
+2018-01-17 12:46:01,403 WARN main - <Running.>
+2018-01-17 12:46:01,946 WARN main - <java.io.IOException: java.util.concurrent.ExecutionException: java.net.ConnectException: Connexion refusée>
+2018-01-17 12:46:01,946 ERROR main - <org.openrdf.repository.RepositoryException: java.io.IOException: java.util.concurrent.ExecutionException: java.net.ConnectException: Connexion refusée>
+2018-01-17 12:46:16,982 WARN main - <Running.>
+2018-01-17 12:46:17,386 WARN main - <java.io.IOException: java.util.concurrent.ExecutionException: java.net.ConnectException: Connexion refusée>
+2018-01-17 12:46:17,386 ERROR main - <org.openrdf.repository.RepositoryException: java.io.IOException: java.util.concurrent.ExecutionException: java.net.ConnectException: Connexion refusée>
+2018-01-17 12:46:40,548 WARN main - <Running.>
+2018-01-17 12:46:40,994 WARN main - <java.io.IOException: java.util.concurrent.ExecutionException: java.net.ConnectException: Connexion refusée>
+2018-01-17 12:46:40,994 ERROR main - <org.openrdf.repository.RepositoryException: java.io.IOException: java.util.concurrent.ExecutionException: java.net.ConnectException: Connexion refusée>
+2018-01-17 12:47:19,480 WARN main - <Running.>
+2018-01-17 12:51:04,858 WARN main - <Running.>
+2018-01-17 12:57:47,656 WARN main - <Running.>
+2018-01-17 12:58:07,967 WARN main - <Running.>
+2018-01-17 12:58:19,706 WARN main - <Running.>
+2018-01-17 12:58:20,203 WARN main - <java.io.IOException: java.util.concurrent.ExecutionException: java.net.ConnectException: Connexion refusée>
+2018-01-17 12:58:37,937 WARN main - <Running.>
+2018-01-17 13:03:10,072 WARN main - <Running.>
+2018-01-17 13:05:08,805 WARN main - <Running.>
+2018-01-17 13:07:48,983 WARN main - <Running.>
+2018-01-17 13:08:11,163 WARN main - <Running.>
+2018-01-17 13:19:28,743 WARN main - <Running.>
+2018-01-17 13:19:59,963 WARN main - <Running.>
+2018-01-17 13:33:55,516 WARN main - <Running.>
+2018-01-17 13:34:09,385 WARN main - <Running.>
+2018-01-17 13:34:50,176 WARN main - <Running.>
+2018-01-17 13:41:06,216 WARN main - <Running.>
+2018-01-17 13:42:04,327 WARN main - <Running.>
+2018-01-17 13:43:04,964 WARN main - <Running.>
+2018-01-17 14:01:29,785 WARN main - <Running.>
+2018-01-17 14:03:16,236 WARN main - <Running.>
+2018-01-17 14:04:44,316 WARN main - <Running.>
+2018-01-17 14:04:57,550 WARN main - <Running.>
+2018-01-17 14:06:35,885 WARN main - <Running.>
+2018-01-17 14:07:37,826 WARN main - <Running.>
+2018-01-17 14:09:46,642 WARN main - <Running.>
+2018-01-17 14:10:04,306 WARN main - <Running.>
+2018-01-17 14:13:39,541 WARN main - <Running.>
+2018-01-17 14:18:33,707 WARN main - <Running.>
+2018-01-17 14:36:59,783 WARN main - <Running.>
+2018-01-17 14:37:50,536 WARN main - <Running.>
+2018-01-17 14:44:25,199 WARN main - <Running.>
+2018-01-17 16:10:30,408 WARN main - <Running.>
+2018-01-17 16:15:52,157 WARN main - <Running.>
+2018-01-17 16:32:58,491 WARN main - <Running.>
+2018-01-17 16:33:27,206 WARN main - <Running.>
+2018-01-17 16:36:34,009 WARN main - <Running.>
+2018-01-17 16:36:59,099 WARN main - <Running.>
+2018-01-17 16:38:29,262 WARN main - <Running.>
+2018-01-17 16:39:29,400 WARN main - <Running.>
